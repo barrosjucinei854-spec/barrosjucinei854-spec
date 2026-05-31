@@ -3,7 +3,7 @@
 
 # Olá, eu sou Jucinei Barros 👋
 
-## 📊 Analista de Dados em formação
+## 📊 Analista de Dados
 
 Sou estudante de **Gestão da Tecnologia da Informação** com foco em **Análise de Dados**.
 
