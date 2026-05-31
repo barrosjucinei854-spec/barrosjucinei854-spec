@@ -1,4 +1,4 @@
-<img src="https://share.google/0JKMfjao2QugzoYp2" width="100%" />
+<img src="https://via.placeholder.com/1200x300.png?text=Meu+Banner" width="100%" />
 
 # Olá, eu sou Jucinei Barros 👋
 
