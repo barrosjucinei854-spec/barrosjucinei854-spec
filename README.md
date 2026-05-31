@@ -1,4 +1,5 @@
-<img src="https://via.placeholder.com/1200x300.png?text=Meu+Banner" width="100%" />
+<img src="<img width="626" height="376" alt="image" src="https://github.com/user-attachments/assets/2986e149-fbca-4fd3-9d85-317b315e402b" />
+" width="100%" />
 
 # Olá, eu sou Jucinei Barros 👋
 
