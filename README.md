@@ -1,4 +1,4 @@
-![Banner]( https://share.google/0JKMfjao2QugzoYp2 )
+https://share.google/0JKMfjao2QugzoYp2
 
 # Olá, eu sou Jucinei Barros 👋
 
