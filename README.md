@@ -1,5 +1,5 @@
-<img src="<img width="626" height="376" alt="image" src="https://github.com/user-attachments/assets/2986e149-fbca-4fd3-9d85-317b315e402b" />
-" width="100%" />
+<img width="800" height="446" alt="image" src="https://github.com/user-attachments/assets/7c480488-f251-4fad-9f0a-531060048898" />
+
 
 # Olá, eu sou Jucinei Barros 👋
 
