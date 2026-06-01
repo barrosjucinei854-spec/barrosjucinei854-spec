@@ -1,17 +1,8 @@
 <div align="center">
 
-```
-â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ•—  â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ•— â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ•— â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ•— â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ•—
-â–ˆâ–ˆâ•”â•â•â–ˆâ–ˆâ•—â–ˆâ–ˆâ•”â•â•â–ˆâ–ˆâ•—â•šâ•â•â–ˆâ–ˆâ•”â•â•â•â–ˆâ–ˆâ•”â•â•â–ˆâ–ˆâ•—â–ˆâ–ˆâ•”â•â•â•â•â•
-â–ˆâ–ˆâ•‘  â–ˆâ–ˆâ•‘â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ•‘   â–ˆâ–ˆâ•‘   â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ•‘â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ•—
-â–ˆâ–ˆâ•‘  â–ˆâ–ˆâ•‘â–ˆâ–ˆâ•”â•â•â–ˆâ–ˆâ•‘   â–ˆâ–ˆâ•‘   â–ˆâ–ˆâ•”â•â•â–ˆâ–ˆâ•‘â•šâ•â•â•â•â–ˆâ–ˆâ•‘
-â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ•”â•â–ˆâ–ˆâ•‘  â–ˆâ–ˆâ•‘   â–ˆâ–ˆâ•‘   â–ˆâ–ˆâ•‘  â–ˆâ–ˆâ•‘â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ•‘
-â•šâ•â•â•â•â•â• â•šâ•â•  â•šâ•â•   â•šâ•â•   â•šâ•â•  â•šâ•â•â•šâ•â•â•â•â•â•â•
-```
+# Jucinei Barros
 
-# OlÃ¡, eu sou Jucinei Barros ðŸ‘‹
-
-**Analista de Dados** Â· GestÃ£o da Tecnologia da InformaÃ§Ã£o Â· Bahia, Brasil
+**Analista de Dados** &nbsp;Â·&nbsp; GestÃ£o da Tecnologia da InformaÃ§Ã£o &nbsp;Â·&nbsp; Bahia, Brasil
 
 *Transformando dados em insights, insights em decisÃµes.*
 
@@ -19,7 +10,7 @@
 
 ---
 
-## ðŸ§­ Sobre mim
+## Sobre mim
 
 Sou estudante de **GestÃ£o da Tecnologia da InformaÃ§Ã£o** com foco em **AnÃ¡lise de Dados**. Apaixonado por transformar dados brutos em informaÃ§Ãµes que realmente importam para o negÃ³cio.
 
@@ -27,7 +18,7 @@ Meu trabalho envolve construir **dashboards que contam histÃ³rias**, realizar 
 
 ---
 
-## ðŸš€ Stack TÃ©cnica
+## Stack TÃ©cnica
 
 <div align="center">
 
@@ -41,20 +32,20 @@ Meu trabalho envolve construir **dashboards que contam histÃ³rias**, realizar 
 
 ---
 
-## ðŸ“Š Foco de AtuaÃ§Ã£o
+## Foco de AtuaÃ§Ã£o
 
-| Ãrea | DescriÃ§Ã£o |
+| Area | Descricao |
 |------|-----------|
-| ðŸ“ˆ **Dashboards & BI** | VisualizaÃ§Ãµes interativas em Power BI com foco em KPIs e mÃ©tricas de negÃ³cio |
-| ðŸ” **AnÃ¡lise ExploratÃ³ria** | IdentificaÃ§Ã£o de padrÃµes, tendÃªncias e anomalias em bases de dados reais |
-| ðŸ”„ **ETL & Tratamento de Dados** | Limpeza, transformaÃ§Ã£o e modelagem de dados com Python e SQL |
-| ðŸŽ¯ **Business Intelligence** | RelatÃ³rios e painÃ©is que orientam decisÃµes estratÃ©gicas |
+| **Dashboards & BI** | VisualizaÃ§Ãµes interativas em Power BI com foco em KPIs e mÃ©tricas de negÃ³cio |
+| **AnÃ¡lise ExploratÃ³ria** | IdentificaÃ§Ã£o de padrÃµes, tendÃªncias e anomalias em bases de dados reais |
+| **ETL & Tratamento de Dados** | Limpeza, transformaÃ§Ã£o e modelagem de dados com Python e SQL |
+| **Business Intelligence** | RelatÃ³rios e painÃ©is que orientam decisÃµes estratÃ©gicas |
 
 ---
 
-## ðŸ“‚ Projetos em Destaque
+## Projetos em Destaque
 
-### ðŸ† Dashboard Metas e Resultados
+### Dashboard Metas e Resultados
 > Painel completo com anÃ¡lise de faturamento, lucro, metas por semestre e performance por equipe â€” desenvolvido em **Power BI**.
 
 - Indicadores de faturamento total e lucro consolidado
@@ -64,12 +55,13 @@ Meu trabalho envolve construir **dashboards que contam histÃ³rias**, realizar 
 
 ---
 
-## ðŸ“¬ Contato
+## Contato
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/barrosjucinei854)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/barrosjucinei854)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jucinei-barros-48b9a43b0)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:barrosjucinei854@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/barrosjucinei854-spec)
 
 *Aberto a oportunidades e colaboraÃ§Ãµes na Ã¡rea de dados.*
 
@@ -78,5 +70,5 @@ Meu trabalho envolve construir **dashboards que contam histÃ³rias**, realizar 
 ---
 
 <div align="center">
-  <sub>Feito com ðŸ“Š e muita anÃ¡lise por <b>Jucinei Barros</b></sub>
+  <sub>Feito com dedicacao por <b>Jucinei Barros</b></sub>
 </div>
