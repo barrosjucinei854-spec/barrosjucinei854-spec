@@ -2,9 +2,9 @@
 
 # Jucinei Barros
 
-**Analista de Dados** &nbsp;Â·&nbsp; GestÃ£o da Tecnologia da InformaÃ§Ã£o &nbsp;Â·&nbsp; Bahia, Brasil
+**Analista de Dados** · Gestão da Tecnologia da Informação · Bahia, Brasil
 
-*Transformando dados em insights, insights em decisÃµes.*
+*Transformando dados em insights, insights em decisões.*
 
 </div>
 
@@ -12,13 +12,13 @@
 
 ## Sobre mim
 
-Sou estudante de **GestÃ£o da Tecnologia da InformaÃ§Ã£o** com foco em **AnÃ¡lise de Dados**. Apaixonado por transformar dados brutos em informaÃ§Ãµes que realmente importam para o negÃ³cio.
+Sou estudante de **Gestão da Tecnologia da Informação** com foco em **Análise de Dados**. Apaixonado por transformar dados brutos em informações que realmente importam para o negócio.
 
-Meu trabalho envolve construir **dashboards que contam histÃ³rias**, realizar **anÃ¡lises exploratÃ³rias** e apoiar decisÃµes estratÃ©gicas com base em evidÃªncias â€” sempre com clareza e precisÃ£o.
+Meu trabalho envolve construir **dashboards que contam histórias**, realizar **análises exploratórias** e apoiar decisões estratégicas com base em evidências — sempre com clareza e precisão.
 
 ---
 
-## Stack TÃ©cnica
+## Stack Técnica
 
 <div align="center">
 
@@ -32,26 +32,44 @@ Meu trabalho envolve construir **dashboards que contam histÃ³rias**, realizar 
 
 ---
 
-## Foco de AtuaÃ§Ã£o
+## Foco de Atuação
 
-| Area | Descricao |
+| Área | Descrição |
 |------|-----------|
-| **Dashboards & BI** | VisualizaÃ§Ãµes interativas em Power BI com foco em KPIs e mÃ©tricas de negÃ³cio |
-| **AnÃ¡lise ExploratÃ³ria** | IdentificaÃ§Ã£o de padrÃµes, tendÃªncias e anomalias em bases de dados reais |
-| **ETL & Tratamento de Dados** | Limpeza, transformaÃ§Ã£o e modelagem de dados com Python e SQL |
-| **Business Intelligence** | RelatÃ³rios e painÃ©is que orientam decisÃµes estratÃ©gicas |
+| **Dashboards & BI** | Visualizações interativas em Power BI com foco em KPIs e métricas de negócio |
+| **Análise Exploratória** | Identificação de padrões, tendências e anomalias em bases de dados reais |
+| **ETL & Tratamento de Dados** | Limpeza, transformação e modelagem de dados com Python e SQL |
+| **Business Intelligence** | Relatórios e painéis que orientam decisões estratégicas |
 
 ---
 
 ## Projetos em Destaque
 
 ### Dashboard Metas e Resultados
-> Painel completo com anÃ¡lise de faturamento, lucro, metas por semestre e performance por equipe â€” desenvolvido em **Power BI**.
+
+> Painel completo com análise de faturamento, lucro, metas por semestre e performance por equipe — desenvolvido em **Power BI**.
 
 - Indicadores de faturamento total e lucro consolidado
-- AnÃ¡lise de portfÃ³lio de produtos por marca
+- Análise de portfólio de produtos por marca
 - Performance individual e coletiva de equipes de vendas
 - Comparativo de metas vs. resultados realizados
+
+### Projeto HR Analytics
+
+> Análise de rotatividade de funcionários com dados reais de RH, utilizando **Python, Pandas e Power BI**.
+
+- Limpeza e tratamento de 14.999 registros
+- Análise exploratória de turnover por departamento
+- Identificação de fatores ligados à saída de colaboradores
+- Dashboard executivo com insights para tomada de decisão
+
+### Projeto Cyclistic
+
+> Estudo de comportamento de usuários de bike-share com foco em geração de insights de negócio.
+
+- Tratamento e exploração dos dados com Python
+- Identificação de padrões entre membros e usuários casuais
+- Recomendações estratégicas baseadas em comportamento de uso
 
 ---
 
@@ -63,12 +81,12 @@ Meu trabalho envolve construir **dashboards que contam histÃ³rias**, realizar 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:barrosjucinei854@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/barrosjucinei854-spec)
 
-*Aberto a oportunidades e colaboraÃ§Ãµes na Ã¡rea de dados.*
+*Aberto a oportunidades e colaborações na área de dados.*
 
 </div>
 
 ---
 
 <div align="center">
-  <sub>Feito com dedicacao por <b>Jucinei Barros</b></sub>
+  <sub>Feito com dedicação por <b>Jucinei Barros</b></sub>
 </div>
