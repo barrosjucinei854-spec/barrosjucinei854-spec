@@ -49,10 +49,10 @@ Meu trabalho envolve construir **dashboards que contam histórias**, realizar **
 
 > Painel completo com análise de faturamento, lucro, metas por semestre e performance por equipe — desenvolvido em **Power BI**.
 
-- Indicadores de faturamento total e lucro consolidado
-- Análise de portfólio de produtos por marca
-- Performance individual e coletiva de equipes de vendas
-- Comparativo de metas vs. resultados realizados
+- Indicadores de faturamento total e lucro consolidado.
+- Análise de portfólio de produtos por marca.
+- Performance individual e coletiva de equipes de vendas.
+- Comparativo de metas vs. resultados realizados.
 
 ### Projeto HR Analytics
 
